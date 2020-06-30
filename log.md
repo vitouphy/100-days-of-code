@@ -16,3 +16,12 @@
 **Thoughts:** Using PyTorch Lightning framework with Seq2Seq is somewhat confusing just to consider which is to ouput from `forward` function.
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
+
+
+### Day 2: June  30, 2020 
+
+**Today's Progress**: Implementing a simple GRU-based Seq2Seq with Greedy Decoding
+
+**Thoughts:** Using `traning_step` instead of function `forward` makes things a lot easier.
+
+**Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
