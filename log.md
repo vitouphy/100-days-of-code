@@ -25,3 +25,12 @@
 **Thoughts:** Using `traning_step` instead of function `forward` makes things a lot easier.
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
+
+
+### Day 3: July  04, 2020 
+
+**Today's Progress**: Implemented greedy and random sampling decoding
+
+**Thoughts:** Does random sampling technique really work? Hmmmmmmmmm....
+
+**Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
