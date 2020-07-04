@@ -33,4 +33,11 @@
 
 **Thoughts:** Does random sampling technique really work? Hmmmmmmmmm....
 
+
+### Day 4: July  05, 2020 
+
+**Today's Progress**: Implemented BeamSearch and n-Layers Bidrectional GRU (Seq2Seq)
+
+**Thoughts:** It seems like beam-search tends to prefer short and generic response...
+
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
