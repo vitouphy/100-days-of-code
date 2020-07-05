@@ -27,17 +27,25 @@
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
 
 
-### Day 3: July  04, 2020 
+### Day 3: July  03, 2020 
 
 **Today's Progress**: Implemented greedy and random sampling decoding
 
 **Thoughts:** Does random sampling technique really work? Hmmmmmmmmm....
 
 
-### Day 4: July  05, 2020 
+### Day 4: July  04, 2020 
 
-**Today's Progress**: Implemented BeamSearch and n-Layers Bidrectional GRU (Seq2Seq) + Nucleus Sampling
+**Today's Progress**: Implemented BeamSearch and n-Layers Bidrectional GRU (Seq2Seq)
 
 **Thoughts:** It seems like beam-search tends to prefer short and generic response...
+
+**Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
+
+### Day 5: July 05: 2020
+
+**Today's Progress**: Implemented nucleus sampling
+
+**Thoughts:** that concept of nucleus is pretty simple; yet seems to be quite robust.
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
