@@ -36,7 +36,7 @@
 
 ### Day 4: July  05, 2020 
 
-**Today's Progress**: Implemented BeamSearch and n-Layers Bidrectional GRU (Seq2Seq)
+**Today's Progress**: Implemented BeamSearch and n-Layers Bidrectional GRU (Seq2Seq) + Nucleus Sampling
 
 **Thoughts:** It seems like beam-search tends to prefer short and generic response...
 
