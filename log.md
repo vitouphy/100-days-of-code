@@ -49,3 +49,21 @@
 **Thoughts:** that concept of nucleus is pretty simple; yet seems to be quite robust.
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
+
+
+### Day 6: July 06: 2020
+
+**Today's Progress**: Summary of the decoding strategies into a blog
+
+**Thoughts:** Implementing is one thing, but putting them into words is another thing.
+
+**Link to work:** Waiting to be approved [Toward DataScience](https://) 
+
+
+### Day 7: July 07: 2020
+
+**Today's Progress**: Refactor the code.
+
+**Thoughts:** So far the code was done only in Jupyter Notebook, for simplicity. Now it is converted into many components.
+
+**Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
