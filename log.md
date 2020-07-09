@@ -67,3 +67,12 @@
 **Thoughts:** So far the code was done only in Jupyter Notebook, for simplicity. Now it is converted into many components.
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
+
+
+### Day 8: July 08: 2020
+
+**Today's Progress**: Refactor the code further.
+
+**Thoughts:** Using PyTorching Lightning to help with the process. It was easy to use. One confusing point is when the Lightning saves params passed to the model (including `vocab_path`); then, when loading its checkpoint, it uses the values from the checkpoint and it is hard to change that. 
+
+**Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
