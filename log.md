@@ -76,3 +76,14 @@
 **Thoughts:** Using PyTorching Lightning to help with the process. It was easy to use. One confusing point is when the Lightning saves params passed to the model (including `vocab_path`); then, when loading its checkpoint, it uses the values from the checkpoint and it is hard to change that. 
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
+
+### Day 9: July 09: 2020
+
+**Today's Progress**: Build a project to visualize each decoding strategy behaviour using VueJS.
+
+**Thoughts:** So far, it's been fun. VueJS makes things easier; ChartJS adds interactive flavor on top of it. 
+
+**Link to work:** [Decoding Visualizer Project](https://github.com/vitouphy/decoding_visualizer)
+
+
+
