@@ -86,4 +86,12 @@
 **Link to work:** [Decoding Visualizer Project](https://github.com/vitouphy/decoding_visualizer)
 
 
+### Day 10: July 10: 2020
+
+**Today's Progress**: Take a side quest, and learn to generate 🐕 images using GAN.
+
+**Thoughts:** GAN takes a lot of time to training. Training for 200 epochs getting the following results. Also, Jupyter notebook on Kaggle, frequently, gets a timeout due to inactivity (I was waiting for the training to end 😭).
+
+**Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
+
 
