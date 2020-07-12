@@ -95,3 +95,12 @@
 **Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
 
 
+### Day 11: July 11: 2020
+
+**Today's Progress**: After training GAN for 500 epochs, the result is not much of a different from 200 epochs. I realized the model also suffers from `mode collapse` which the model no longer takes into account of latent variable z. Try GAN with loss fuction `Wasserstein`. The model is being experimenting. We however try to apply this WGAN to MNIST dataset; it performs horribly. What went wrong. Hmmmmmmm 
+
+**Thoughts:** GAN is really hard to train especially with the mode collapse. Next time, I am gonna try DCGAN. 
+
+**Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
+
+
