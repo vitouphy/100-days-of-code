@@ -104,3 +104,12 @@
 **Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
 
 
+### Day 12: July 13: 2020
+
+**Today's Progress**: Implementing Deep-Convolutional GAN (it just means using Conv for both generator and discriminator). It is claimed to combat with mode collapse well.
+
+**Thoughts:** I am not sure what's going on here. After many epochs (30-ish), the generations are terrible. Maybe it needs more time?.
+
+**Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
+
+
