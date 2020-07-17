@@ -113,7 +113,7 @@
 **Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
 
 
-### Day 13-15: July 14-17: 2020
+### Day 13-15: July 15-17: 2020
 
 **Today's Progress**: Tweaking, messing, breaking, ARRRGHHHHHHHH, but finally I got the GAN working.
 
