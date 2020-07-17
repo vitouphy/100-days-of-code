@@ -113,3 +113,17 @@
 **Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
 
 
+### Day 13-15: July 14-17: 2020
+
+**Today's Progress**: Tweaking, messing, breaking, ARRRGHHHHHHHH, but finally I got the GAN working.
+
+**Thoughts:** Training GAN is painful. It's crazy. There is no way to know which setting works and which does not. Lots of hyper-parameter tuning. There is one interesting pattern though. The network does not train well if the discriminator is **too good** or **too bad**. When the discriminator is so good, generator has no chance to fool the discriminator. Thus, G only knows what is bad and has no idea on what is good. When D is **bad**, G can easily fool D with some weird pattern. 
+
+**Things I found useful**:
+- DCGAN can avoid `mode collapse` of GAN. 
+- Use noise to add difficulty to discriminator and allow G to fool D from time to time
+- Setting beta of Adam optimizer help 
+
+**Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
+
+
