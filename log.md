@@ -126,4 +126,17 @@
 
 **Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
 
+### Day 16: July 18: 2020
+
+**Today's Progress**: I forgot to convert the output from [-1,1] to [0,1]. Now it's all better. Also implementing noise that reduces overtime.
+
+**Thoughts:** GAN is tough to tweak. Different dataset might require different hyper-parameters.
+
+**Things I found useful**:
+- D loss should be around 0.7
+- G loss should be > 1
+- Do not forget to make sure the output is proper, or it's gonna be GG. 
+
+**Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
+
 
