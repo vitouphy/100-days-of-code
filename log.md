@@ -139,4 +139,14 @@
 
 **Link to work:** [GAN](https://github.com/vitouphy/learning-deep-learning/tree/master/GAN)
 
+### Day 17: July 19: 2020
+
+**Today's Progress**: Study the fundamental of CNN in detail on Coursera
+
+**Things I found useful**:
+- Classical CNN: Playing with convolution, padding, stride, and so on.
+- ResNet: Using skip-connection (i.e. state at layer i is added to state at layer i+2) helps with deep network.
+- InceptionNet: At each layer, 1x1, 3x3, 5x5, or pooling are used at the same time
+
+
 
