@@ -148,5 +148,20 @@
 - ResNet: Using skip-connection (i.e. state at layer i is added to state at layer i+2) helps with deep network.
 - InceptionNet: At each layer, 1x1, 3x3, 5x5, or pooling are used at the same time
 
+### Day 18: July 20: 2020
+
+**Today's Progress**: Study the further fundamental of CNN in detail on Coursera
+
+**Things I found useful**:
+- YOLO is roboust and fast.
+
+### Day 19: July 29: 2020
+**Today's Progress**: (i) Complete YOLO exercise on Coursera. (ii) Train GAN-based Text Generation with Gumbel Softmax.
+
+**Things I found useful**:
+- [YOLO] The idea of detecting the center of an object within a cell is very interesting.
+- [GAN-Based] Currently, I notice that the mode collapse does not seem to affect much the training. However, the training is very inconsistent. The discriminator outperformsn generator very quickly
+
+**Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
 
 
