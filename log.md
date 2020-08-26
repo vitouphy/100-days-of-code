@@ -164,4 +164,21 @@
 
 **Link to work:** [Chatbot Project](https://github.com/vitouphy/conv_agent)
 
+### Day 20: Aug 25: 2020
+**Today's Progress**: After a long pause, I resume this challenge (though I kinda broke it already) with a chatbot web interface using VueJS.
+
+**Things I found useful**:
+- VueJS is quite easy to use.
+
+
+**Link to work:** [Chatbot Web Interface](https://github.com/vitouphy/web-chat-interface)
+
+### Day 21: Aug 26: 2020
+**Today's Progress**: Fix some interactive bug + make it responsive for mobiles.
+
+**Things I found useful**:
+- Watch out for the order of layer to have interactive particle layer works properly.
+
+**Link to work:** [Chatbot Web Interface](https://github.com/vitouphy/web-chat-interface)
+
 
